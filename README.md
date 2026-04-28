@@ -103,7 +103,7 @@ The score is designed to reward freelancers who earn consistently across multipl
 | Backend | Supabase (PostgreSQL, Auth, RLS, Storage) |
 | Blockchain | Solana Web3.js, @solana/wallet-adapter |
 | Wallet | Phantom, Solflare via wallet adapter |
-| PDF Generation | Puppeteer (server-side), html2canvas + jsPDF (client-side) |
+| PDF Generation | html2canvas + jsPDF |
 | Deployment | Vercel / Netlify |
 
 ---
