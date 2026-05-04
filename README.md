@@ -3,8 +3,8 @@
 ### Verifiable Income Identity for Africa's Digital Workforce
 
 [![Built on Solana](https://img.shields.io/badge/Built%20on-Solana-9945FF?style=flat&logo=solana)](https://solana.com)
-[![Powered by Raenest](https://img.shields.io/badge/Powered%20by-Raenest-00C853?style=flat)](https://raenest.com)
-[![Superteam Nigeria](https://img.shields.io/badge/Superteam-Nigeria-C8F135?style=flat)](https://superteam.fun/nigeria)
+[![Powered by Raenest](https://img.shields.io/badge/Powered%20by-Raenest-9945FF?style=flat)](https://raenest.com)
+[![Superteam Nigeria](https://img.shields.io/badge/Superteam-Nigeria-C8F135?style=flat)](https://x.com/superteamng)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat&logo=next.js)](https://nextjs.org)
 
 ---
